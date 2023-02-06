@@ -1,8 +1,8 @@
 local ESP = {
-    Enabled = false,
-	Tracers = false,
-    Boxes = false,
-    ShowInfo = false,
+      Enabled = false,
+	Tracers = true,
+    Boxes = true,
+    ShowInfo = true,
     UseTeamColor = true,
 	TeamColor = Color3.new(0, 1, 0),
 	EnemyColor = Color3.new(255,0,0),
